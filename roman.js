@@ -2,6 +2,8 @@
 // Converting to and back from Roman numerals.
 // TODO: Consider a way to do numbers beyond 1000. Traditional Roman numerals start modifying, 
 // like L witha line over it for 5000. What can I do instead?
+// TODO: Catch and handle incorrect submissions.
+// TODO: Make a web UI.
 
 function changeToDecimal(num) {
   var numArr = num.split("")
