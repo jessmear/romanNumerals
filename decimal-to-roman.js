@@ -1,5 +1,3 @@
-// TODO: refactor more gracefully
-
 function changeToRoman(num) {
   var result = ""
   
