@@ -1,6 +1,7 @@
 # Demical / Roman Numberal Converter
 
 Decimal to RN conversion is complete from 1 through 5000.
+RN to Decimal conversion is complete from 1 through 1000.
 
 
 ### TODO:
